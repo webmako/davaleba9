@@ -30,7 +30,7 @@ ul{
     height: 613px;
     margin: 0 auto 151px auto;
    /* border: 3px solid green; */
-    background-image: url("/foto/foto1.png");  
+    background-image: url("foto/foto1.png");  
     /* background-position: center;
     background-repeat: no-repeat; */
    
@@ -143,7 +143,7 @@ nav{
     display: none;
 }
 .section_1 {
-    background-image: url("/foto/change.png"); 
+    background-image: url("foto/change.png"); 
     width: 100%;
     height: 253px;
     margin:0 auto 96px auto ;
